@@ -4,6 +4,7 @@
 
 #### I'm
 - 🖥 Front-end engineer at Wemakeprice
+- 🙋‍♂️ Devops & Project architect
 - ⚛️ React
 - ⌗ Node.js
 - ⌨️ ECMAScript
