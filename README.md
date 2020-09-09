@@ -8,6 +8,7 @@
 - ⚛️ React
 - ⌗ Node.js
 - ⌨️ ECMAScript
+- 👍 translate opensource document and contribute
 
 #### My Collections
 
