@@ -7,10 +7,11 @@
 #### I'm
 - 🖥 Front-end engineer at Wemakeprice
 - 🙋‍♂️ Devops & Project architect
-- ⚛️ React
+- ⚛️ React & ReactNative
 - ⌗ Node.js
 - ⌨️ ECMAScript
 - 👍 translate opensource document and contribute
+
 
 #### My Collections
 
