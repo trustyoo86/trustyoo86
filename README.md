@@ -21,6 +21,8 @@
 
 [Notion blog](https://kernyoo.oopy.io)
 
+[ECMAScript features](https://app.gitbook.com/@fe-features/s/es-features)
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://trustyoo86.github.io/)](https://trustyoo86.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanseung-yoo-b79aa4bb/)](https://www.linkedin.com/in/hanseung-yoo-b79aa4bb/)
 <!--
