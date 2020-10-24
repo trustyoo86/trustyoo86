@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trustyoo86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm
-- 🖥 Front-end engineer at Wemakeprice
+- 🖥 Front-end engineer at Wemakeprice (Team Lead)
 - 🙋‍♂️ Devops & Project architect
 - ⚛️ React & ReactNative
 - ⌗ Node.js
