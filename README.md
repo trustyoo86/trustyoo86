@@ -9,8 +9,8 @@
 - 🙋‍♂️ Devops & Project architect
 - ⚛️ React & ReactNative
 - ⌗ Node.js
-- ⌨️ ECMAScript
-- 👍 translate opensource document and contribute
+- ⌨️ ECMAScript & Typescript
+- 👍 translate opensource documents and sources contribute 
 
 
 #### My Collections
