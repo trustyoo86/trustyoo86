@@ -8,7 +8,7 @@
 - 🖥 Front-end engineer at Wemakeprice (Team Lead)
 - 🙋‍♂️ Devops & Project architect
 - ⚛️ React & ReactNative
-- ⌗ Node.js
+- ⌗ Node.js, MongoDB, Websocket
 - ⌨️ ECMAScript & Typescript
 - 👍 translate opensource documents and sources contribute 
 
