@@ -8,7 +8,7 @@
 - 🖥 Front-end engineer at Wemakeprice
 - 🙋‍♂️ Devops & Project architect
 - ⚛️ React & ReactNative
-- ⌗ Node.js, MongoDB, Websocket
+- ⌗ Node.js, Webpack, Parcel, Rollup
 - ⌨️ ECMAScript & Typescript
 - 👍 translate opensource documents and sources contribute 
 
