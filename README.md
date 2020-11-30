@@ -17,6 +17,8 @@
 
 [NPM Profile](https://www.npmjs.com/~kernyoo)
 
+[Medium](https://medium.com/@trustyoo86)
+
 [ECMAScript features](https://app.gitbook.com/@fe-features/s/es-features)
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://trustyoo86.github.io/)](https://trustyoo86.github.io/)
