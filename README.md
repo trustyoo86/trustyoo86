@@ -8,7 +8,7 @@
 - 🖥 Front-end engineer at Wemakeprice
 - 🙋‍♂️ Devops & Project architect
 - ⚛️ React & ReactNative & ionic & svelte
-- ⌗ Node.js, Webpack, Parcel, Rollup
+- ⌗ Webpack, Parcel, Rollup
 - ⌨️ ECMAScript & Typescript & ES features
 - 👍 translate opensource documents and sources contribute 
 
