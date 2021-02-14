@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trustyoo86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm
-- 🖥 Front-end engineer at Wemakeprice
+- 🖥 Front-end engineer at Tmap Mobility
 - 🙋‍♂️ Devops & Build develop environment
 - ⚛️ React & ReactNative & ionic & svelte
 - ⌗ Webpack, Parcel, Rollup
@@ -26,6 +26,7 @@
 
 #### Careers
 
+- 2021.02 ~ current Tmap Mobility
 - 2017.09 ~ 2021.01 Wemakeprice
 - 2015.07 ~ 2017.09 Linkit
 - 2013.02 ~ 2015.06 Solvotek
