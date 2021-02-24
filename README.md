@@ -8,7 +8,7 @@
 - 🖥 Front-end engineer at Tmap Mobility
 - 🙋‍♂️ Devops & Build develop environment
 - ⚛️ React & ReactNative & ionic & svelte
-- ⌗ Webpack, Parcel, Rollup
+- ⌗ Webpack, Parcel, Rollup, Snowpack
 - ⌨️ ECMAScript & Typescript & ES features
 - 👍 contribute source codes & translate opensource documents
 
