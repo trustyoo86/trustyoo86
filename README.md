@@ -5,12 +5,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trustyoo86&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm
-- 🖥 Front-end engineer at Tmap Mobility
-- 🙋‍♂️ Devops & Build develop environment
-- ⚛️ React & ReactNative & ionic & svelte
-- ⌗ Webpack, Parcel, Rollup, Snowpack
-- ⌨️ ECMAScript & Typescript & ES features
-- 👍 contribute source codes & translate opensource documents
+- 🖥  Front-end engineer at Tmap Mobility
+- 🙋‍♂️  Devops & Build develop environment
+- ⚛️  React & ReactNative & ionic & svelte
+- ⌗  Webpack, Parcel, Rollup, Snowpack
+- ⌨️  ECMAScript & Typescript & ES features
+- 👍  contribute source codes & translate opensource documents
 
 
 #### My Collections
