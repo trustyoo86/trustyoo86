@@ -1,4 +1,4 @@
-### Hanseung Yoo (Kern Yoo) 👋
+### Hanseung Yoo (Kern Yoo) 👋 🙆‍♂️
 
 [![kernyoo's github stats](https://github-readme-stats.vercel.app/api?username=trustyoo86)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -10,7 +10,7 @@
 - ⚛️  React & ReactNative & ionic & svelte
 - ⌗  Webpack, Parcel, Rollup, Snowpack
 - ⌨️  ECMAScript & Typescript & ES features
-- 👍  contribute source codes & translate opensource documents
+- 👍  contribute & translate opensource documents
 
 
 #### My Collections
