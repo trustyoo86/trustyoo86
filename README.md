@@ -10,8 +10,7 @@
 - ⚛️  React & ReactNative & ionic & svelte
 - ⌗  Webpack, Parcel, Rollup, Snowpack
 - ⌨️  ECMAScript & Typescript & ES features
-- 👍  contribute & translate opensource documents
-
+- 👍  contribute & translate opensource
 
 #### My Collections
 
