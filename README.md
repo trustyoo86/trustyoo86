@@ -25,10 +25,10 @@
 
 #### Careers
 
-- 2021.02 ~ current Tmap Mobility
-- 2017.09 ~ 2021.01 Wemakeprice
-- 2015.07 ~ 2017.09 Linkit
-- 2013.02 ~ 2015.06 Solvotek
+- 2021.02 ~ Current Tmap Mobility FE developet
+- 2017.09 ~ 2021.01 Wemakeprice FE Team Lead
+- 2015.07 ~ 2017.09 Linkit FE developet
+- 2013.02 ~ 2015.06 Solvotek FE developer
 
 <!--
 **trustyoo86/trustyoo86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
