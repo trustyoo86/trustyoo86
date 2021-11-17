@@ -25,7 +25,7 @@
 
 #### Careers
 
-- 2021.02 ~ Current Tmap Mobility FE developet
+- 2021.02 ~ Current Tmap Mobility FE development
 - 2017.09 ~ 2021.01 Wemakeprice FE Team Lead
 - 2015.07 ~ 2017.09 Linkit FE developet
 - 2013.02 ~ 2015.06 Solvotek FE developer
