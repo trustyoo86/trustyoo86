@@ -24,8 +24,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hanseung-yoo-b79aa4bb/)](https://www.linkedin.com/in/hanseung-yoo-b79aa4bb/)
 
 #### Careers
-
-- 2021.02 ~ Current Tmap Mobility FE development
+- 2022.02 ~ Current Hanwha life service FE developer
+- 2021.02 ~ 2022.01 Tmap Mobility FE development
 - 2017.09 ~ 2021.01 Wemakeprice FE Team Lead
 - 2015.07 ~ 2017.09 Linkit FE developet
 - 2013.02 ~ 2015.06 Solvotek FE developer
